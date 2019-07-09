@@ -6,6 +6,9 @@
 .Rhistory
 .Rapp.history
 
+##  Ignore documents 
+docs/
+
 # Session Data files
 .RData
 
